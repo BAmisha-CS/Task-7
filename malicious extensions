@@ -1,0 +1,25 @@
+While browser extensions are useful, malicious or compromised extensions can pose serious security, privacy, and performance risks. These threats can occur even in reputable browsers like Firefox and Chrome if the extension is poorly vetted or later hijacked.
+
+Common Risks from Malicious Extensions
+
+| Threat Type                           | Description                                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🕵️ Data Theft                         | Extensions can access sensitive information like usernames, passwords, payment data, or browser history, especially if granted broad permissions. |
+| 🔗 Redirects & Phishing               | Malicious extensions can redirect users to phishing sites or inject ads, fake search engines, or malicious scripts into web pages.                |
+| 📥 Malware Installation               | Some extensions download malware or backdoors onto the user's system, leading to remote access or further compromise.                             |
+| 📊 Tracking & Profiling               | Extensions may monitor user activity, collect data on every site visited, and send this information to third parties — often without consent.     |
+| 🔧 Browser Hijacking                  | Extensions can change default search engines, new tab pages, or inject code that controls browser behavior.                                       |
+| 📤 Unauthorized Data Exfiltration     | They can silently upload browsing history, clipboard contents, or cookies to remote servers.                                                      |
+
+Real-World Examples
+DataSpii Breach (2019)*: Extensions leaked sensitive user data including tax returns, travel itineraries, and corporate secrets from major companies.
+The Great Suspender Scandal* : A popular Chrome extension was sold, later updated to include spyware code.
+Fake Ad Blockers* : Dozens of fake ad blockers with malware payloads were removed after millions of installs.
+
+🔐 Prevention Tips
+To stay safe:
+✅ Only install extensions from trusted sources (e.g., addons.mozilla.org).
+🔍 Always review permissions — avoid those that request access to "all data on all websites" unless necessary.
+🧼 Audit extensions regularly and remove unused ones.
+🛑 Be skeptical of unknown or suddenly updated extensions.
+🔐 Use security tools or browser features that monitor extension activity.
