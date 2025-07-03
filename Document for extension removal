@@ -1,0 +1,14 @@
+Steps Taken:
+
+Opened Firefox’s Add-ons Manager (Ctrl + Shift + A).
+Reviewed all installed extensions for purpose and usage.
+Checked permissions and user reviews for each extension.
+Identified unused or potentially unnecessary extensions.
+Removed the following extensions:
+- ClearURLs
+- Video DownloadHelper
+- Audio Equalizer
+- Tab Session Manager
+Restarted Firefox to apply changes.
+Verified performance improvements using Firefox’s performance tools (about:performance and Task Manager)
+
